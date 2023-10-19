@@ -1,1 +1,1 @@
-https://rolling-scopes-school.github.io/iryna-gyliuk-JSFE2023Q1/shelter/index.html
+https://rolling-scopes-school.github.io/shelter/index.html
