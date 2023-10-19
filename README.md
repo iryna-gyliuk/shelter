@@ -1,2 +1,1 @@
-# shelter
-Slicing project for RSSchool. Two page website
+https://rolling-scopes-school.github.io/iryna-gyliuk-JSFE2023Q1/shelter/index.html
